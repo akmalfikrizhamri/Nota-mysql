@@ -8,3 +8,8 @@ brew install mysql
 brew services start mysql
 mysql -u root
 ```
+
+## Stop MySql
+```
+brew services stop mysql
+```
